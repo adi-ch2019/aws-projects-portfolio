@@ -1,6 +1,7 @@
 # AWS Projects Portfolio
 
 ![AWS IAM User Group Console Screenshot](/kubernetes-may2023/aws-project-aws-eks-via-nodegroup/misc/Console-IAM-UserGroup.png) | ![AWS VPC Screenshot](/kubernetes-may2023/aws-project-aws-eks-via-nodegroup/misc/Console-VPC.png) | ![AWS EKS Screenshot](/kubernetes-may2023/aws-project-aws-eks-via-nodegroup/misc/Wonderful-Metal-Mongoose.png)
+|--|--|--|
 # Cloud clusters minimal setups
 
 ## AWS EKS
